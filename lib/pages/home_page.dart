@@ -5,7 +5,7 @@ import 'package:provider/provider.dart';
 // commetariiii qazaqstan
 import '../components/grocery_item_tile.dart';
 import 'cart_page.dart';
-
+// qazaqstan astanasy astana
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
 
