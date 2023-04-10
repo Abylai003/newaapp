@@ -56,6 +56,7 @@ class HomePage extends StatelessWidget {
                 style: TextStyle(fontSize: 16),
               ),
             ),
+            // Beka best player in the world
             Expanded(
               child: Consumer<CartModel>(
                 builder: (context, value, child) {
