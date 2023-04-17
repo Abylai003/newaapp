@@ -7,7 +7,6 @@ class CartModel extends ChangeNotifier {
     ["Milk", "3.30", "lib/images/milk.png", Colors.red],
     ["Chicken", "12.50", "lib/images/chicken.png", Colors.brown],
     ["Water", "1.00", "lib/images/water.png", Colors.blue],
-    ["Alihan", "0.01", "lib/images/chicken.png", Colors.yellow],
   ];
 
   List _cartItems = [];
